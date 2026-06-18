@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TitanSky-SMP.aternos.me",
+    "port": 49317,
     "version": "",
     "try-creative": false
   },
